@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="00bf66a0-13cc-48e3-8a21-a128a3714fa8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/elements/ControlElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/elements/Cutter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/elements/Dimension.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/elements/Dividable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/elements/Document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/elements/Drawable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/elements/Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/elements/Frame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/elements/HorizontalRuler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/elements/ImageElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/elements/Orientation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/elements/PageFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/elements/Paragraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/elements/PositionControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/elements/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/elements/VerticalSpacer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/elements/render/ColumnLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/elements/render/ColumnLayoutHint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/elements/render/Layout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/elements/render/LayoutHint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/elements/render/RenderContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/elements/render/RenderListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/elements/render/Renderer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/elements/render/VerticalLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/elements/render/VerticalLayoutHint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/shape/AbstractShape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/shape/Elipsis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/shape/Ellipse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/shape/Rect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/shape/RoundRect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/shape/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/shape/Stroke.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/text/Alignment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/text/Area.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/text/BaseFont.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/text/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/text/ControlCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/text/ControlCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/text/ControlFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/text/DrawContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/text/DrawListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/text/DrawableText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/text/FontDescriptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/text/Indent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/text/IndentCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/text/NewLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/text/Position.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/text/ReplacedWhitespace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/text/SpaceUnit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/text/StyledText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/text/TextFlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/text/TextFlowUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/text/TextFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/text/TextLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/text/TextSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/text/TextSequenceUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/text/WidthRespecting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/text/WrappingNewLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/text/annotations/Annotated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/text/annotations/AnnotatedStyledText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/text/annotations/Annotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/text/annotations/AnnotationCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/text/annotations/AnnotationDrawListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/text/annotations/AnnotationProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/text/annotations/AnnotationProcessorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/text/annotations/Annotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/text/annotations/HyperlinkAnnotationProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/text/annotations/UnderlineAnnotationProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/util/CompatibilityHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/util/Enumerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/util/EnumeratorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/util/Enumerators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/util/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/util/WordBreaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/util/WordBreakerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/aituition/pdfbox/api/layout/util/WordBreakers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/aituition/AppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\3rdparty\maven\3.8.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PskJvqOrOinVuv5aAWWTc9YhHY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Private/AITution/pdfbox-api/src/main/java/org/aituition/pdfbox/api/layout/util",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.32528734",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Private\AITution\pdfbox-api\src\main\java\org\aituition\pdfbox\api\layout\util" />
+      <recent name="C:\Private\AITution\pdfbox-api\src\main\java\org\aituition\pdfbox\api" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.aituition.pdfbox.api.layout.util" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.aituition.App" />
+      <module name="pdfbox-api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.aituition.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00bf66a0-13cc-48e3-8a21-a128a3714fa8" name="Changes" comment="" />
+      <created>1684253111637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684253111637</updated>
+      <workItem from="1684253113063" duration="147000" />
+      <workItem from="1684253303594" duration="4890000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
