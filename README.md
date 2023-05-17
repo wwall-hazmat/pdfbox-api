@@ -1,6 +1,4 @@
-# pdfbox-api
-
-# PDFBox API
+# aituition.org pdfbox-api
 
 [PDFBox](https://pdfbox.apache.org/) is an open-source Java library for working with PDF documents. It provides a wide range of features to create, manipulate, and extract content from PDF files.
 
